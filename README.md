@@ -1,2 +1,16 @@
-# Portfolio-simple-website
-My portfolio website showcases my skills, experience, and projects as a Web Developer. It includes an About Me section, my interests, and my featured project, **JOB ME**, a Tamil Nadu-focused job portal for IT and non-IT jobs. Visitors can also connect with me through my social media links and explore my professional journey.
+Portfolio Website
+
+A clean and responsive personal portfolio website built using HTML5 and CSS3. This project consists of two pages that showcase my profile, skills, projects, and contact information with a modern and user-friendly design. It demonstrates my understanding of web development fundamentals, responsive layouts, and CSS styling techniques.
+
+Features
+Responsive and clean UI
+Two-page website structure
+Modern HTML5 semantic elements
+CSS3 styling with hover effects and animations
+Easy navigation between pages
+Beginner-friendly and lightweight design
+Technologies Used
+HTML5
+CSS3
+
+This project reflects my frontend development skills and serves as a personal portfolio to showcase my work and web design abilities.
